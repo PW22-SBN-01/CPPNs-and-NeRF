@@ -1,0 +1,3 @@
+[submodule "kitti-utils"]
+	path = kitti-utils
+	url = https://github.com/AdityaNG/kitti-utils
